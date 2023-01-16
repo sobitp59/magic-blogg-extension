@@ -12,7 +12,7 @@
 - right click it and click on 'generate blog post'
 - start creating your posts
 
-# here is a small tutorial video to help you
+# here is a small demo
 
 https://user-images.githubusercontent.com/66735394/212714276-342bb26e-d571-4efb-ad30-7c2661699bfe.mp4
 
