@@ -1,0 +1,74 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Satoshi', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 420px;
+    background: black;
+    padding: 20px;
+    color: white;
+}
+
+#key_entered {
+    display: none;
+}
+
+.header{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 30px;
+}
+.magic-blogg-logo{
+    width : 40px;
+    height: 40px;
+}
+
+.header-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+p{
+    color: rgba(149, 149, 149, 0.728);
+    font-weight: bold;
+    text-align: left;
+    font-size: large;
+    margin-bottom: 5px;
+}
+
+.input{
+    padding: 10px 8px;
+    background-color: rgba(128, 128, 128, 0.245);
+    outline: none;
+    border: 0.5px solid rgba(128, 128, 128, 0.378);
+    border-radius: 10px;
+    color: rgb(132, 132, 132);
+    margin-right: 3px;
+    font-family: 'Satoshi', sans-serif;
+    width: 230px;
+
+}
+button{
+    padding: 10px 14px;
+    background: white;
+    outline: none;
+    border: 0.5px solid rgba(85, 85, 85, 0.221);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    margin-top: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Satoshi', sans-serif;
+
+}   
