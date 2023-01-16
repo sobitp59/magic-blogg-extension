@@ -7,7 +7,9 @@
 - go to [Chrome Extension]('chrome://extensions')
 - enable the developer mode
 - click on load unpacked and select your directory
-- add your api key
+- click on the extension, add your api key
+- go to hashnode and select your title
+- right click it and click on 'generate blog post'
 - start creating your posts
 
 # here is a small tutorial video to help you
